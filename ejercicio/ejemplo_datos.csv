@@ -1,0 +1,248 @@
+﻿ID,USERNAME,CLASS,LEVEL,HP,INVENTORY
+1,ccaush0,Hero,33,58,"[
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Lapis"",
+    ""price"": 87755,
+    ""rarity"": 5,
+    ""type"": ""Map""
+  }
+]"
+2,egotfrey1,Theif,76,85,"[
+  {
+    ""atk"": 245,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Seed"",
+    ""price"": 51954,
+    ""rarity"": 5,
+    ""type"": ""Bow""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Energy Typhoon"",
+    ""price"": 209213,
+    ""rarity"": 3,
+    ""type"": ""Key""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 3,
+    ""item_name"": ""Dinoblade"",
+    ""price"": 103290,
+    ""rarity"": 1,
+    ""type"": ""Map""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 4,
+    ""item_name"": ""Energy Typhoon"",
+    ""price"": 251727,
+    ""rarity"": 4,
+    ""type"": ""Key""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 5,
+    ""item_name"": ""Extortion of Vulnerabilities"",
+    ""price"": 221274,
+    ""rarity"": 4,
+    ""type"": ""Gem""
+  }
+]"
+3,umacnalley2,Spellcaster,54,126,"[
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Dinoblade"",
+    ""price"": 106877,
+    ""rarity"": 1,
+    ""type"": ""Key""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 202,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Energy Typhoon"",
+    ""price"": 63209,
+    ""rarity"": 1,
+    ""type"": ""Cape""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 3,
+    ""item_name"": ""Stone Arm"",
+    ""price"": 81351,
+    ""rarity"": 3,
+    ""type"": ""Armor""
+  }
+]"
+4,cstribbling3,Blade Dancer,67,153,"[
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Silver Sword"",
+    ""price"": 15535,
+    ""rarity"": 5,
+    ""type"": ""Gem""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 129,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Potion"",
+    ""price"": 122947,
+    ""rarity"": 1,
+    ""type"": ""Shield""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 21,
+    ""id"": 3,
+    ""item_name"": """",
+    ""price"": 82939,
+    ""rarity"": 5,
+    ""type"": ""Beer""
+  }
+]"
+5,bmaunders4,Viking,14,142,[]
+6,dmaytom5,Pirate,6,176,[]
+7,ccockburn6,Priest,32,224,"[
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Stone Arm"",
+    ""price"": 238631,
+    ""rarity"": 3,
+    ""type"": ""Armor""
+  },
+  {
+    ""atk"": 233,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Silver Sword"",
+    ""price"": 38255,
+    ""rarity"": 5,
+    ""type"": ""Sword""
+  }
+]"
+8,tmordaunt7,Bard,19,104,"[
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 172,
+    ""id"": 1,
+    ""item_name"": ""Inferno"",
+    ""price"": 81962,
+    ""rarity"": 5,
+    ""type"": ""Beer""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Stone Arm"",
+    ""price"": 57829,
+    ""rarity"": 1,
+    ""type"": ""Armor""
+  },
+  {
+    ""atk"": 189,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 3,
+    ""item_name"": ""Hymn of Water"",
+    ""price"": 77868,
+    ""rarity"": 4,
+    ""type"": ""Sword""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 4,
+    ""item_name"": ""Seed"",
+    ""price"": 36707,
+    ""rarity"": 4,
+    ""type"": ""Helmet""
+  }
+]"
+9,bhillan8,Priest,70,131,[]
+10,lshefton9,Ninja,30,243,"[
+  {
+    ""atk"": 207,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 1,
+    ""item_name"": ""Lapis"",
+    ""price"": 192411,
+    ""rarity"": 3,
+    ""type"": ""Bow""
+  },
+  {
+    ""atk"": 250,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 2,
+    ""item_name"": ""Mop"",
+    ""price"": 202130,
+    ""rarity"": 5,
+    ""type"": ""Spell""
+  },
+  {
+    ""atk"": 88,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 3,
+    ""item_name"": ""Extinguish"",
+    ""price"": 128815,
+    ""rarity"": 4,
+    ""type"": ""Bow""
+  },
+  {
+    ""atk"": 0,
+    ""def"": 51,
+    ""hp_regen"": 0,
+    ""id"": 4,
+    ""item_name"": ""Mop"",
+    ""price"": 226390,
+    ""rarity"": 3,
+    ""type"": ""Cape""
+  },
+  {
+    ""atk"": 39,
+    ""def"": 0,
+    ""hp_regen"": 0,
+    ""id"": 5,
+    ""item_name"": ""Vajra Sword"",
+    ""price"": 48534,
+    ""rarity"": 5,
+    ""type"": ""Bow""
+  }
+]"
